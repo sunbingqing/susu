@@ -28,8 +28,12 @@ body{
 	width: 100%;
 }
 
+.index-banner img{
+	width: 100%;
+}
+
 .block{
-	border-bottom: 1px dashed #9cb0bc;
+	border-bottom: 	px dashed #9cb0bc;
 	font-size: 0;
 }
 
@@ -120,4 +124,50 @@ body{
 
 .index-yuanj{
 	padding: 0 .6rem;
+}
+
+.index-yuanj-bl{
+	padding-bottom: .5rem;
+}
+
+.index-yuanj-bl h2{
+	margin-bottom: .1rem;
+}
+
+.index-yuanj p{
+	font-size: .26rem;
+	color: #008fd7;
+	line-height: .4rem;
+}
+
+.img-idx11{
+	display: block;
+	width: 4.5rem;
+	margin: .6rem auto 0;
+}
+
+.img-idx12{
+	display: block;
+	width: 4rem;
+	margin: .6rem auto 0;
+}
+
+.img-idx13{
+	display: block;
+	width: 6rem;
+	margin: .6rem auto 0;
+}
+
+.footer{
+	padding: .3rem;
+}
+
+.footer img{
+	width: 100%;
+}
+
+.add-p{
+	padding-left: .4rem;
+	background: url(../images/dian1.png) no-repeat left .02rem;
+	background-size: auto .35rem;
 }
